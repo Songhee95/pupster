@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pupster/static/css/main.6cc4de07.chunk.css",
-    "main.js": "/pupster/static/js/main.4eaff33f.chunk.js",
-    "main.js.map": "/pupster/static/js/main.4eaff33f.chunk.js.map",
+    "main.js": "/pupster/static/js/main.c4805d0c.chunk.js",
+    "main.js.map": "/pupster/static/js/main.c4805d0c.chunk.js.map",
     "runtime-main.js": "/pupster/static/js/runtime-main.fb941ecf.js",
     "runtime-main.js.map": "/pupster/static/js/runtime-main.fb941ecf.js.map",
     "static/js/2.b08b6991.chunk.js": "/pupster/static/js/2.b08b6991.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fb941ecf.js",
     "static/js/2.b08b6991.chunk.js",
     "static/css/main.6cc4de07.chunk.css",
-    "static/js/main.4eaff33f.chunk.js"
+    "static/js/main.c4805d0c.chunk.js"
   ]
 }
