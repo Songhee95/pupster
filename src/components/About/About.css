@@ -1,0 +1,11 @@
+.home {
+  background: url("https://i.imgur.com/qkdpN.jpg") no-repeat center;
+  background-size: cover;
+  height: 120vh;
+  opacity: 1;
+  text-align: center;
+}
+
+h1 ~ p {
+  font-size: 2rem;
+}
